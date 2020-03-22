@@ -1,7 +1,6 @@
 program quedateencasa(Input, Output);
 {
        Version 2.0
-       391 linea de codigo.
        Desarrollado por BOZAPE Pedro Boza
        En tiempos de cuarentena por el covid-19
        Golfito, Costa Rica 2020-03-21
@@ -34,7 +33,6 @@ program quedateencasa(Input, Output);
        Que falta:
        Que valide que la palabra no sea mayor a 7 letras
        Lectura de las 2 palabras a imprimir en pantalla
-       Llenas matrices de las letras del abecedarios faltantes.
        Maquetar y declarar numeros
 }
 
